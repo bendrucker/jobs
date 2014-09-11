@@ -26,14 +26,14 @@ The callback from Google's OAuth login page. This should respond with an access 
 List the user's calendars given an access token. The response data should follow this format:
 
 ```
-{
+[{
   id: "joey@sunrise.am",
   title: "Joey's Calendar",
   color: "42d692",
   writable: true,
   selected: true,
   timezone: 'America/New_York'
-}
+}]
 ```
 
 ### Events
