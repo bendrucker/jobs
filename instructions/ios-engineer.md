@@ -1,5 +1,7 @@
 # iOS Engineer Challenge
 
+*Please make your repository accessible by @pierrevalade, @jeremylv and @joeydong.*
+
 **Calendar and Agenda Views**
 
 Build an iOS app that replicates the basic features described below of the Calendar and Agenda views on the [Sunrise iOS (iPhone) app](https://itunes.apple.com/us/app/sunrise-calendar./id599114150?mt=8).

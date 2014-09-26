@@ -1,5 +1,7 @@
 # Android Engineer Challenge
 
+*Please make your repository accessible by @pierrevalade, @jeremylv, @joeydong and @rno.*
+
 **Calendar and Agenda Views**
 
 Build an Android app that replicates the basic features described below of the Calendar and Agenda views on the [Sunrise Android app](https://play.google.com/store/apps/details?id=am.sunrise.android.calendar&hl=en).
