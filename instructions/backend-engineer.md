@@ -1,5 +1,7 @@
 # Backend Engineer Challenge
 
+*Please make your repository accessible by @pierrevalade, @jeremylv, @joeydong and @pierre-elie.*
+
 **Google Calendar Data Proxy**
 
 Build a NodeJS app that transforms data from the [Google Calendar API](https://developers.google.com/google-apps/calendar/concepts) into a specific format. This app should also handle the OAuth authentication flow. **Do not use the [google-api-nodejs-client](https://github.com/google/google-api-nodejs-client)**.

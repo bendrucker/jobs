@@ -1,5 +1,7 @@
 # Web App Engineer Challenge
 
+*Please make your repository accessible by @pierrevalade, @jeremylv, @joeydong and @Victa.*
+
 **Multi-Day View**
 
 Build a web app that displays events laid out in blocks on a multi-day week view.
