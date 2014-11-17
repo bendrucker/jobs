@@ -130,7 +130,6 @@ Parsing event [id:1]
 Parsing event [id:2]
   Title: "Lunch"
   0 attendees
-
 ```
 
 Of course this set of input/output is just an example of the expected behavior of your lib.
