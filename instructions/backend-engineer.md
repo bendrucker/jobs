@@ -87,3 +87,13 @@ List *all* events for calendar with `calendarID` given an access token. The resp
 ### [Async JS](https://github.com/caolan/async)
 
 ### [Mocha](https://github.com/visionmedia/mocha)
+
+## Side notes
+
+Keep in mind what we will compare your work with: our own production Google proxy.
+While we are not asking for a full production-ready proxy, we’d like to see that your code has that potential:
+- clean
+- flexible
+- extensible
+- maintainable
+- great error/exception handling & reporting
