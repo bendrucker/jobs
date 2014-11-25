@@ -90,6 +90,8 @@ List *all* events for calendar with `calendarID` given an access token. The resp
 This second challenge is **optional**. It can be included with your Google Calendar proxy code if you decide to give it a try.
 Organize your library as you see fit but it should expose a function accepting the following input as parameter and return the following output.
 
+**For this challenge, do not use any 3rd-party library, not even `underscore`.**
+
 ### Input
 
 Array of raw log strings
