@@ -116,7 +116,7 @@ Array of raw log strings
 Structured, grouped logs into a single string (new lines are not *displayed* here).
 The logs have been organized into sections based on prefix, with proper indentation.
 ```
-HTTPRequest
+HTTP Request
   URL http://example.com
   Headers
     Authorization: Bearer oauth-token
