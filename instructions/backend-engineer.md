@@ -80,7 +80,7 @@ List *all* events for calendar with `calendarID` given an access token. The resp
 
 ### Some Libraries to Consider
 
-- [Express JS](https://github.com/visionmedia/express)
+- [Express JS](https://github.com/visionmedia/express) (Do **not** use the template generator)
 - [Node Request](https://github.com/mikeal/request)
 - [Async JS](https://github.com/caolan/async)
 - [Mocha](https://github.com/visionmedia/mocha)
