@@ -1,6 +1,6 @@
 # Android Engineer Challenge
 
-*Please make your repository accessible by @pierrevalade, @jeremylv, @joeydong and @rno.*
+*Please make your repository accessible by @pierrevalade and @rno.*
 
 **Calendar and Agenda Views**
 
