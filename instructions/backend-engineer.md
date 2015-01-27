@@ -1,6 +1,6 @@
 # Backend Engineer Challenge
 
-*Please make your repository accessible by @pierrevalade, @jeremylv, @joeydong and @pierre-elie.*
+*Please make your repository accessible by @pierrevalade, @joeydong and @pierre-elie.*
 
 ## Google Calendar Data Proxy
 
