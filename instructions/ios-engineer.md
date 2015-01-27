@@ -1,6 +1,6 @@
 # iOS Engineer Challenge
 
-*Please make your repository accessible by @pierrevalade, @jeremylv and @joeydong.*
+*Please make your repository accessible by @pierrevalade, @joeydong.*
 
 **Calendar and Agenda Views**
 
