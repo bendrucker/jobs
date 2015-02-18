@@ -1,6 +1,6 @@
 # Web App Engineer Challenge
 
-*Please make your repository accessible by @pierrevalade, @joeydong and @Victa.*
+*Please make your repository accessible by @pierrevalade, @joeydong @Victa and @sebastienvillar.*
 
 **Multi-Day View**
 
