@@ -40,10 +40,10 @@ var listEvents = function(cb) {
     fetchEventsForSharedCalendars,
     fetchEventsForUserCalendars
   ];
-  parallel(tasks, function(err, results) {
-    if (err) {
-      log.error(err);
-      return cb(err);
+  parallel(tasks, function(error, results) {
+    if (error) {
+      log.error(error);
+      return cb(error);
     }
 
     var events = flatten(results);
