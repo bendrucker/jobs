@@ -16,7 +16,7 @@ The code should be consistently formatted. Consistent code reduces syntax relate
 
 *Example of Inconsistent Code:*
 
-```js
+```java
 if (a == b) {
   //
 } else if (a == c)
