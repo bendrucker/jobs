@@ -78,12 +78,17 @@ List *all* events for calendar with `calendarID` given an access token. The resp
 }]
 ```
 
-### Some Libraries to Consider
+### Dependencies
 
-- [Express JS](https://github.com/visionmedia/express) (Do **not** use the template generator)
-- [Node Request](https://github.com/mikeal/request)
-- [Async JS](https://github.com/caolan/async)
-- [Mocha](https://github.com/visionmedia/mocha)
+Your app **should** use:
+
+- [Express](https://github.com/strongloop/express)
+
+Your app **should not** use:
+
+- [express-generator](https://github.com/expressjs/generator)
+- [Passport](https://github.com/jaredhanson/passport) or any OAuth manager
+- [google-api-nodejs-client](https://github.com/google/google-api-nodejs-client)
 
 ## Bonus: Log formatting library
 
